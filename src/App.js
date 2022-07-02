@@ -3,8 +3,8 @@ import LoginForm from "./Components/LoginForm";
 import ServerStatsForm from "./Components/ServerStats";
 function App() {
   const adminUser = {
-      username: "slahmer",
-      password: "fivem123"
+      username: "admin",
+      password: "admin"
   }
 
 
